@@ -10,6 +10,7 @@ I created a summary of ride-sharing data by city type.  Then I created a multipl
 
 ![PyBer Ride Share Summary](analysis/PyBer_Ride_Share_Summary.png)
 
+
 - Deliverable 2: A multiple-line chart of total fares for each city type
 - The below figure shows the total fare by city type from January through April 2019.
 
