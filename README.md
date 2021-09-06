@@ -7,9 +7,10 @@ I created a summary of ride-sharing data by city type.  Then I created a multipl
 
 - Deliverable 1: A ride-sharing summary DataFrame by city type 
 -- The below figure shows the total rides, total drivers, total fares, average fare per ride, and average fare per driver by ciy type.
-
+![PyBer Ride Share Summary](analysis/PyBer_Ride_Share_Summary.png)
 - Deliverable 2: A multiple-line chart of total fares for each city type
 -- The below figure shows the total fare by city type from January through April 2019.
+![PyBer fare summary](analysis/PyBer_fare_summary.png)
 
 ## Summary
 1. In rural cities, fares are more expensive per ride than in urban and suburban cities; however, drivers make significantly less money.
